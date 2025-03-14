@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1>Hi there 👋. I'm Fer, welcome to my profile.</h1>
+<h1>Hi there 👋. I'm Erick, welcome to my profile.</h1>
 <p>🖥️ I'm a Software Engineer.</p>
 <p>🤖 I'm currently working as Support Engineer</p>
 <p>💬 Ask me about: Typescript, Python, MySQL.</p>
