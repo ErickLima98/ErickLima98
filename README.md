@@ -10,9 +10,10 @@
 <h1><b>Top Languages</b></h1>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLima98&layout=compact">
 <h1>Tech Stack</h1>
-<p><img src="https://img.shields.io/badge/-HTML5-d95725?logo=HTML5&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-CSS-1e81c2?logo=CSS&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-JavaScript-f7e018?logo=javascript&logoColor=black&style=flat"/>
+<p>
+<img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-TypeScript-3178c6%3Flogo%3DTypeScript%26logoColor%3Dwhite%26style%3Dflat"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-NestJS-e0234e%3Flogo%3Dnestjs%26logoColor%3Dwhite%26style%3Dflat">
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-SQL-00758f%3Flogo%3Dmysql%26logoColor%3Dwhite%26style%3Dflat">
 </p>
 <!--
 **ErickLima98/ErickLima98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
