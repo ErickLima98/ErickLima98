@@ -11,9 +11,10 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickLima98&layout=compact">
 <h1>Tech Stack</h1>
 <p>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-TypeScript-3178c6%3Flogo%3DTypeScript%26logoColor%3Dwhite%26style%3Dflat"/>
-<img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-NestJS-e0234e%3Flogo%3Dnestjs%26logoColor%3Dwhite%26style%3Dflat">
-<img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2F-SQL-00758f%3Flogo%3Dmysql%26logoColor%3Dwhite%26style%3Dflat">
+<img src="https://img.shields.io/badge/TypeScript-007ACC%3Flogo%3DTypeScript%26logoColor%3Dwhite%26style%3Dflat"/>
+<img src="https://img.shields.io/badge/NestJS-e0234e%253Flogo%253Dnestjs%2526logoColor%253Dwhite%2526style%253Dflat">
+<img src="https://img.shields.io/badge/SQL-00758f%3Flogo%3Dmysql%26logoColor%3Dwhite%26style%3Dflat">
+ <img src="https://img.shields.io/badge/PostgreSQL-4169e1%3Flogo%3Dpostgresql%26logoColor%3Dred%26style%3Dflat">
 </p>
 <!--
 **ErickLima98/ErickLima98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
